@@ -1,2 +1,2 @@
-# 2-Dicthionary
+# 2-Dictionary
 give it word and will describe it 
